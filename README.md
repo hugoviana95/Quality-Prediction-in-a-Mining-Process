@@ -3,9 +3,9 @@
 ## About Dataset
 
 ##### References
-This data can be found at:
-Kaggle: https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process
-Github: https://github.com/ihmstefanini/junior-datascience-challenge?tab=readme-ov-file
+This data can be found at:<br>
+Kaggle: https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process<br>
+Github: https://github.com/ihmstefanini/junior-datascience-challenge?tab=readme-ov-file<br>
 
 ##### Context
 It is not always easy to find databases from real world manufacturing plants, specially mining plants. So, I would like to share this database with the community, which comes from one of the most important parts of a mining process: a flotation plant!
